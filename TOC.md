@@ -10,5 +10,6 @@
   - [加入流程](translator-howtojoin.md)
   - [回报与奖励](translate-reward.md)
 - [原创作者](authors.md)
+- [极客学院 Wiki 协作手册](wiki-collaboration.md)
 - [常见问题与解答](faq.md)
 - [联系我们](contact.md)
