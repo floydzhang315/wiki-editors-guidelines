@@ -6,6 +6,7 @@
 - [课程编辑](editors.md)
 - [翻译编辑](translators.md)
   - [简介](intro-to-translators.md)
+  - [我们需要你做的](requirement-translators.md)
   - [加入流程](translator-howtojoin.md)
   - [回报与奖励](translate-reward.md)
 - [原创作者](authors.md)
