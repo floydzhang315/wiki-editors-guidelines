@@ -8,5 +8,5 @@
   - [简介](intro-to-translators.md)
   - [加入流程](translator-howtojoin.md)
   - [回报与奖励](translate-reward.md)
-- [极客原创作者](authors.md)
+- [原创作者](authors.md)
 - [常见问题与解答](faq.md)
