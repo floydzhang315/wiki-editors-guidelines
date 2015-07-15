@@ -7,4 +7,5 @@
 - [翻译编辑](translators.md)
 - [原创作者](authors.md)
 - [常见问题与解答](faq.md)
+- [极客学院 Wiki 协作手册](wiki-collaboration.md)
 - [联系我们](contact.md)
