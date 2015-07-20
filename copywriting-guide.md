@@ -68,6 +68,11 @@ markdown 格式
 
 ![](images/cg1.png)
 
+## 图片相对路径举例
 
+```
+![](images/图片名字.png)
+```
 
+>注意：图片格式可为： png jpg gif
 
